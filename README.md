@@ -18,9 +18,15 @@
 
 ```
 
-```markdown
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-```
+## 🚀 Featured Projects
+
+- 🔧 [Frappe LMS](https://github.com/frappe/lms) — Custom LMS based on Frappe Framework with Docker
+- 🛰️ [Auto QGIS Downloader](https://github.com/rgPermana/auto-qgis-downloader) — Grid-based image downloader for QGIS using ArcGIS REST API
+- ⚙️ [Laravel DDEV Template](https://github.com/rgPermana/laravel-ddev-template) — Ready-to-use Laravel starter with DDEV + VSCode DevContainer
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgPermana&layout=compact&theme=radical)
+
+
+![GitHub followers](https://img.shields.io/github/followers/rgPermana?label=Follow&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/rgPermana?affiliations=OWNER&style=social)
