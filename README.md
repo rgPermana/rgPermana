@@ -30,3 +30,16 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/rgPermana?label=Follow&style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/rgPermana?affiliations=OWNER&style=social)
+
+
+
+
+
+## 🤝 Let's Collaborate!
+I'm open to collaborate on:
+- 🌍 GIS & Geospatial Tools
+- 📚 LMS & Educational Tech
+- ⚙️ Backend & DevOps Automation
+
+📬 Feel free to reach me via [LinkedIn](https://linkedin.com/in/rengga-permana)!
+
