@@ -16,13 +16,11 @@
 
 👨‍💻 Experienced in building scalable backend systems, automation tools, and geospatial apps with a strong focus on open-source technology.
 
+```
 
-
----
-
-## ✅ 3. **Perindah dengan Badge**
 ```markdown
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+```
