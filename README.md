@@ -50,7 +50,10 @@ I'm a passionate developer and GIS specialist based in Indonesia. I specialize i
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rgPermana&theme=radical&hide_border=true" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgPermana&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  ## 📊 GitHub Stats
+
+<div align="center">
+   <img src="https://metrics.lecoq.io/rgPermana?template=classic&config.timezone=Asia%2FJakarta&plugin.languages=1" alt="Rengga's GitHub Metrics" />
 </div>
 
 ## 🤝 Let's Collaborate!
