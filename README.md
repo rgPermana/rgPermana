@@ -52,10 +52,6 @@ I'm a passionate developer and GIS specialist based in Indonesia. I specialize i
   <br/><br/>
   ## 📊 GitHub Stats
 
-<div align="center">
-   <img src="https://metrics.lecoq.io/rgPermana?template=classic&config.timezone=Asia%2FJakarta&plugin.languages=1" alt="Rengga's GitHub Metrics" />
-</div>
-
 ## 🤝 Let's Collaborate!
 I'm always open to discussing new opportunities or collaborating on:
 - 🌍 **GIS & Geospatial Tools**
